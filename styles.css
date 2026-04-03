@@ -1,2 +1,7 @@
+img {
+  transition: 0.3s;
+}
 
-/* Your CSS Code here. */
+img:hover {
+  transform: scale(1.1);
+}
